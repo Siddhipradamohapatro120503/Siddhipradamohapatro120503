@@ -34,4 +34,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhipradamohapatro120503&" alt="siddhipradamohapatro120503" /></p>
 
 
-![snake gif](https://github.com/tjanhvi/tjanhvi/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Siddhipradamohapatro120503/Siddhipradamohapatro120503/blob/output/github-contribution-grid-snake.svg)
