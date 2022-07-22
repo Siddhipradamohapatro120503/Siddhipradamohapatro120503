@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: jock 
 - ⚡ Fun fact: the state of being addicted
 
+
+![snake gif](https://github.com/tjanhvi/tjanhvi/blob/output/github-contribution-grid-snake.svg)
