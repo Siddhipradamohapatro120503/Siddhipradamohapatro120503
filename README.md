@@ -17,7 +17,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=Siddhipradamohapatro120503&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-<p align="center">![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)</p>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
