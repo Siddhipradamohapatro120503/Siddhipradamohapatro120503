@@ -24,5 +24,5 @@
 [![](https://visitcount.itsvg.in/api?id=Siddhipradamohapatro120503&icon=1&color=1)](https://visitcount.itsvg.in)
 
 
-
-![snake gif](https://github.com/Siddhipradamohapatro120503/Siddhipradamohapatro120503/blob/output/github-contribution-grid-snake.svg)
+<!-- 
+![snake gif](https://github.com/Siddhipradamohapatro120503/Siddhipradamohapatro120503/blob/output/github-contribution-grid-snake.svg) -->
